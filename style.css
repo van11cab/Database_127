@@ -199,3 +199,20 @@ ul li:hover {
     overflow: scroll;
     margin-left: 20px;
 }
+
+#footer {
+	padding:20px;
+	position:relative;
+	margin-top:-15vh;
+	bottom:0px;
+	width:99vw;
+	height:100px;
+	font-size:1vw;
+	background-color:#96a71d;
+}
+
+a.footer {
+	text-decoration:none;
+	font-family: 'Montserrat', sans-serif;
+	color:white;	
+}
